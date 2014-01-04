@@ -20,6 +20,7 @@ public class Draw {
 		}
 		return img;
 	}
+	private String str="this  is new one";
 	
 	/**
 	 * »­Êı×ÖÍ¼Æ¬
