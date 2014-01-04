@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="6"
+   name=""
+   committed-date="2011-10-11T06:38:52.060154Z"
+   url="http://j2me-lib9.googlecode.com/svn/trunk/Demo/res"
+   last-author="1430554130@qq.com"
+   kind="dir"
+   uuid="0152b0c7-af5a-bb88-c30d-911cae28ecb3"
+   repos="http://j2me-lib9.googlecode.com/svn"
+   revision="16"/>
+<entry
+   committed-rev="6"
+   name="imgfont"
+   text-time="2013-02-28T00:56:57.341244Z"
+   committed-date="2011-10-11T06:38:52.060154Z"
+   checksum="025d808d53a15d86b6d68f64c883236e"
+   last-author="1430554130@qq.com"
+   kind="file"
+   prop-time="2013-02-28T00:56:57.251244Z"/>
+<entry
+   committed-rev="6"
+   name="text"
+   text-time="2013-02-28T00:56:57.351244Z"
+   committed-date="2011-10-11T06:38:52.060154Z"
+   checksum="17cd796773e576e3c3402a1e9014fd56"
+   last-author="1430554130@qq.com"
+   kind="file"
+   prop-time="2013-02-28T00:56:57.261244Z"/>
+<entry
+   committed-rev="6"
+   name="img"
+   text-time="2013-02-28T00:56:57.361244Z"
+   committed-date="2011-10-11T06:38:52.060154Z"
+   checksum="396bd4e6b020ef8b1a849ce2f45682b1"
+   last-author="1430554130@qq.com"
+   kind="file"
+   prop-time="2013-02-28T00:56:57.261244Z"/>
+<entry
+   committed-rev="6"
+   name="map"
+   text-time="2013-02-28T00:56:57.381244Z"
+   committed-date="2011-10-11T06:38:52.060154Z"
+   checksum="31b0ca1c92d420ee9337f65979aea711"
+   last-author="1430554130@qq.com"
+   kind="file"
+   prop-time="2013-02-28T00:56:57.321244Z"/>
+</wc-entries>

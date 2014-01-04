@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="6"
+   name=""
+   committed-date="2011-10-11T06:38:52.060154Z"
+   url="http://j2me-lib9.googlecode.com/svn/trunk/Demo/src/demo"
+   last-author="1430554130@qq.com"
+   kind="dir"
+   uuid="0152b0c7-af5a-bb88-c30d-911cae28ecb3"
+   repos="http://j2me-lib9.googlecode.com/svn"
+   revision="16"/>
+<entry
+   name="lib9"
+   kind="dir"/>
+</wc-entries>
